@@ -223,7 +223,7 @@ remote_theme: qwtel/hydejack@gem
 
 # Used on index and about sites
  #social:
-   name:                JOOHAN LEE
+   #name:                JOOHAN LEE
    links: https://github.com/joohan-lee
 #     - https://twitter.com/<username>
 
