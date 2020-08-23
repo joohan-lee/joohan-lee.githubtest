@@ -222,11 +222,10 @@ remote_theme: qwtel/hydejack@gem
 #   admins:              <id>
 
 # Used on index and about sites
- social:
+ #social:
    name:                JOOHAN LEE
-   links:
+   links: https://github.com/joohan-lee
 #     - https://twitter.com/<username>
-     - https://github.com/joohan-lee
 
 
 # Other Plugins
